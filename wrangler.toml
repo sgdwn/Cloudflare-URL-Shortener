@@ -1,0 +1,10 @@
+name = "short-linker"
+type = "javascript"
+
+account_id = "5fb6dd34b6a09a6bbb4d5bda4091532b"
+workers_dev = true
+route = ""
+zone_id = ""
+kv_namespaces = [
+    { binding = "URL_SPACE", id = "2a49c1b9a5774361b735dde5d7c651fd", preview_id = "2a49c1b9a5774361b735dde5d7c651fd" }
+]
