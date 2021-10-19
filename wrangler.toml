@@ -1,7 +1,7 @@
 name = "short-linker"
 type = "javascript"
 
-account_id = CF_ACCOUNT_ID
+account_id = "ac835d1aa632e2980988f3b3423e16a1"
 workers_dev = true
 compatibility_date = "2021-10-19"
 route = ""
